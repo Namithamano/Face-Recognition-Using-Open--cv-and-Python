@@ -1,4 +1,4 @@
-# Face-Recognition-Using-Open-cv-and-Python
+# Face Recognition Using Open cv and Python
 
 In this model, photos of people 
 and a file containing their names are stored. 
